@@ -23,7 +23,7 @@ function news(source){
       let articles = json.articles;
       let newsHtml = "";
       articles.forEach(function (element, index) {
-        // console.log(articles);
+        console.log(articles);
         let news = `<div class="card mb-3">
                         <div class="row">
                             <div class="col-md-4 col-12">
