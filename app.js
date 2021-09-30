@@ -1,4 +1,3 @@
-// 8e516e54a2ea4609905868c2afe9765e
 
 // let source = `the-times-of-india`;
 // let source = `bbc-news`;
