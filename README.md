@@ -1,16 +1,13 @@
 # News 
 
 
+
   ## Features
 
 - Easily access Today's top news around the world
 - easy to use anyone can access the news info from anywhere
 - you can select differnt news source as per your convenience
 - You can use this tool without downloading any app, any signup and registration are not required for using this tool.
-
- ## Deployment and Hosting
-
-To deploy this project run, I have used [Netlify.com](https://www.netlify.com/)
 
 ## API Reference
 
